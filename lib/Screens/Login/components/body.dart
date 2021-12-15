@@ -50,7 +50,7 @@ class Body extends StatelessWidget {
                 ),
                 GestureDetector(
                   child: const Text(
-                    "Sign In",
+                    "Sign Up",
                     style: TextStyle(
                       color: kPrimaryColor,
                       fontWeight: FontWeight.bold,
